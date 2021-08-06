@@ -22,7 +22,7 @@ function Footer() {
                 <p>RajatB555</p>
                 <p>React App</p>
                 <p>Tailwind CSS</p>
-                <p>Netlify</p>
+                <p>Vercel</p>
                 <p>Next.JS</p>
             </div>
             <div className="space-y-4 text-xs text-gray-800">
