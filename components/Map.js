@@ -21,7 +21,7 @@ function Map({ searchResults }) {
         height: "100%",
         latitude: center.latitude,
         longitude: center.longitude,
-        zoom: 6,
+        zoom: 9,
     });
 
     return (
